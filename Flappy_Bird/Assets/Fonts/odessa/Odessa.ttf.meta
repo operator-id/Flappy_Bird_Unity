@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8df9e0aea5d09cd43b2fdf809ecfde80
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Odessa
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f566c5e4548904043977eb11fc9108ab, type: 3}
+  - {fileID: 12800000, guid: ea08ae58b15ceb049aa5d3dc1645feae, type: 3}
+  - {fileID: 12800000, guid: 017678bd80e2ed44aa100f70ebd6397d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
